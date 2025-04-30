@@ -8,4 +8,20 @@ import { Component } from '@angular/core';
 })
 export class CategoriaComponent {
 
+
+
+
+  onSubmit() {
+    // Handle form submission logic here
+    console.log('Form submitted');
+  }
+  onReset() {
+    // Handle form reset logic here
+    console.log('Form reset');
+  }
+  onCancel() {
+    // Handle cancel action here
+    console.log('Action cancelled');
+  }
+
 }
