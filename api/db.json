@@ -1,34 +1,40 @@
 {
-    "categorias" : [
-        {
-            "id": 1,
-            "nome": "Comida",
-            "icone": "🍔",
-            "descricao": "Gastos relacionados a alimentos e bebidas."
-        },
-        {
-            "id": 2,
-            "nome": "Transporte",
-            "icone": "🚗",
-            "descricao": "Gastos relacionados a transporte e deslocamento."
-        },
-        {
-            "id": 3,
-            "nome": "Entretenimiento",
-            "icone": "🎮",
-            "descricao": "Gastos relacionados a entretenimento e lazer."
-        },
-        {
-            "id": 4,
-            "nome": "Salud",
-            "icone": "💊",
-            "descricao": "Gastos relacionados a saúde e bem-estar."
-        },
-        {
-            "id": 5,
-            "nome": "Ropa",
-            "icone": "👗",
-            "descricao": "Gastos relacionados a vestuário e moda."
-        }
-    ]
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Comida",
+      "icone": "🍔",
+      "descricao": "Gastos relacionados a alimentos e bebidas."
+    },
+    {
+      "id": "2",
+      "nome": "Transporte",
+      "icone": "🚗",
+      "descricao": "Gastos relacionados a transporte e deslocamento."
+    },
+    {
+      "id": "3",
+      "nome": "Entretenimiento",
+      "icone": "🎮",
+      "descricao": "Gastos relacionados a entretenimento e lazer."
+    },
+    {
+      "id": "4",
+      "nome": "Salud",
+      "icone": "💊",
+      "descricao": "Gastos relacionados a saúde e bem-estar."
+    },
+    {
+      "id": "5",
+      "nome": "Ropa",
+      "icone": "👗",
+      "descricao": "Gastos relacionados a vestuário e moda."
+    },
+    {
+      "id": "6",
+      "nome": "Salário",
+      "icone": "🧥",
+      "descricao": "Entrada de Salários."
+    }
+  ]
 }
